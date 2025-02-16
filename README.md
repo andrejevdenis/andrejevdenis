@@ -62,8 +62,8 @@ I'm **AQA Engineer**, born in 1986 Samara, Russia, here is some facts about me a
 
     Having gained a certain experience, have been able to get a position of MiddleQA in [AO-RR](https://ao-rr.ru/#main__slider), from 04.2024.
 - **My AQA experience**:   
-From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work
-
+From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work  
+##
 
 # <div align="center">          <a href="https://github.com/andrejevdenis/demo_representation">        【｡_｡】 ＨＥяє ＩⓈ 𝔞ｎ 𝓔Ｘ𝔞Ⓜ𝐏ᒪ𝑒 𝔬Ｆ 𝔪ㄚ 𝓪ⓤ𝕥𝐨𝓽Ⓔ𝔰𝓽 ᗯØ𝓇𝓀ƒ𝕃𝕠ｗ 【｡_｡】     </a>    </div>
 
