@@ -39,7 +39,7 @@
 
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#div-aligncenter-styleborder-3px-solid-36bcf7-padding-25px-border-radius-50px-display-inline-block-h1-a-hrefhttpsgithubcomandrejevdenisdemo_representation-here-is-an-example-of-my-autotest-workflow-a-h1div)
+- [Example of workflow](##------------------here-is-an-example-of-my-autotest-workflow----------)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
@@ -65,7 +65,7 @@ I'm **AQA Engineer**, born in 1986 Samara, Russia, here is some facts about me a
 From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work
 
 
-#### <div align="center" style="border: 3px solid #36BCF7; padding: 25px; border-radius: 50px; display: inline-block;">    <h1>      <a href="https://github.com/andrejevdenis/demo_representation">        Here is an example of my autotest workflow      </a>    </h1></div>
+## <div align="center" style="border: 5px solid #36BCF7; padding: 25px; border-radius: 50px; display: inline-block;">          <a href="https://github.com/andrejevdenis/demo_representation">        Here is an example of my autotest workflow      </a>    </div>
 
 ## 🗨️ Contacts
 
