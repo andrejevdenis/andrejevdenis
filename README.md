@@ -1,41 +1,41 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/andrejevdenis" target="_blank">Denis</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there,  I'm Denis <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
+</h1>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web,+API,+Mobile+AQA+Engineer" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Web%2C+API%2C+Mobile+AQA+Engineer" alt="Typing SVG" /></a>
 </div>
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=andrejevdenis)
 
 <h3 align="left">My stack:</h3>
 
-![Python](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Python.svg)
-![Pytest](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Pytest.svg)
-![IntelliJ IDEA](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/IntelliJ_IDEA.svg)
-![PyCharm](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/PyCharm.svg)
-![Android Studio](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Android_Studio.svg)
-![Git](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Git.svg)
-![Jenkins](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/jenkins.svg)
-![Postman](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Postman.svg)
-![Swagger](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Swagger.svg)
-![Jira](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/jira.svg)
-![Confluence](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/confluence.svg)
-![ElasticSearch](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/ElasticSearch.svg)
-![Grafana](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/grafana.svg)
-![MySQL](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/mysql.svg)
-![Postgres](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/postgres.svg)
-![Windows](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Windows.svg)
-![Android](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Android.svg)
-![Ubuntu](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Ubuntu.svg)
-![Firefox](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Firefox.svg)
-![Google Chrome](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Google_Chrome.svg)
-![IE](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Internet_Explorer.svg)
-![Opera](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Opera.svg)
-![Tor](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Tor.svg)
-![Adobe Premiere Pro](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Adobe_Premiere_Pro.svg)
-![Adobe Photoshop](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/adobe_photoshop.svg)
-![Notepad++](https://github.com/andrejevdenis/Takamul_proj/blob/master/Icons/Notepad.svg)
+![Python](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Python.svg)
+![Pytest](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Pytest.svg)
+![IntelliJ IDEA](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/IntelliJ_IDEA.svg)
+![PyCharm](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/PyCharm.svg)
+![Android Studio](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Android_Studio.svg)
+![Git](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Git.svg)
+![Jenkins](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/jenkins.svg)
+![Postman](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Postman.svg)
+![Swagger](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Swagger.svg)
+![Jira](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/jira.svg)
+![Confluence](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/confluence.svg)
+![ElasticSearch](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/ElasticSearch.svg)
+![Grafana](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/grafana.svg)
+![MySQL](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/mysql.svg)
+![Postgres](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/postgres.svg)
+![Windows](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Windows.svg)
+![Android](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Android.svg)
+![Ubuntu](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Ubuntu.svg)
+![Firefox](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Firefox.svg)
+![Google Chrome](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Google_Chrome.svg)
+![IE](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Internet_Explorer.svg)
+![Opera](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Opera.svg)
+![Tor](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Tor.svg)
+![Adobe Premiere Pro](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Adobe_Premiere_Pro.svg)
+![Adobe Photoshop](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/adobe_photoshop.svg)
+![Notepad++](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Notepad.svg)
 
 ## Table of Contents
 - [About](#-about)
