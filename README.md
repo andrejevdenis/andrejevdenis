@@ -65,7 +65,11 @@ I'm **AQA Engineer**, born in 1986 Samara, Russia, here is some facts about me a
 From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work
 
 
-## <div align="center" style="border: 5px solid #36BCF7; padding: 25px; border-radius: 50px; display: inline-block;">          <a href="https://github.com/andrejevdenis/demo_representation">        Here is an example of my autotest workflow      </a>    </div>
+## <div align="center" style="border: 5px solid #36BCF7; padding: 25px; border-radius: 50px; display: inline-block;">          <a href="https://github.com/andrejevdenis/demo_representation">        ℍ𝕖𝕣𝕖 𝕚𝕤 𝕒𝕟 𝕖𝕩𝕒𝕞𝕡𝕝𝕖 𝕠𝕗 𝕞𝕪 𝕒𝕦𝕥𝕠𝕥𝕖𝕤𝕥 𝕨𝕠𝕣𝕜𝕗𝕝𝕠𝕨      </a>    </div>
+
+# <div align="center" style="border: 5px solid #36BCF7; padding: 2px; border-radius: 15px; display: inline-block;">          <a href="https://github.com/andrejevdenis/demo_representation">        ＨＥяє ＩⓈ 𝔞ｎ 𝓔Ｘ𝔞Ⓜ𝐏ᒪ𝑒 𝔬Ｆ 𝔪ㄚ 𝓪ⓤ𝕥𝐨𝓽Ⓔ𝔰𝓽 ᗯØ𝓇𝓀ƒ𝕃𝕠ｗ     </a>    </div>
+
+# <div align="center" style="border: 5px solid #36BCF7; padding: 2px; border-radius: 15px; display: inline-block;">          <a href="https://github.com/andrejevdenis/demo_representation">        【｡_｡】 ＨＥяє ＩⓈ 𝔞ｎ 𝓔Ｘ𝔞Ⓜ𝐏ᒪ𝑒 𝔬Ｆ 𝔪ㄚ 𝓪ⓤ𝕥𝐨𝓽Ⓔ𝔰𝓽 ᗯØ𝓇𝓀ƒ𝕃𝕠ｗ 【｡_｡】     </a>    </div>
 
 ## 🗨️ Contacts
 
