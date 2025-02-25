@@ -39,7 +39,7 @@
 
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#font-colorwhitefont)
+- [Example of workflow](#div-a-hrefhttpsgithubcomandrejevdenisdemo_representation-img-srchttpsgithubcomandrejevdenisandrejevdenisblobmastericonsexamplepng-width1239-height215-a-div)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
