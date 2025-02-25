@@ -39,7 +39,7 @@
 
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#-)
+- [Example of workflow](#)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
