@@ -65,7 +65,7 @@ I'm **AQA Engineer**, born in 1986 Samara, Russia, here is some facts about me a
 From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work  
 ##
 
-# <div align="center">          <a href="https://github.com/andrejevdenis/demo_representation">        【｡_｡】 ＨＥяє ＩⓈ 𝔞ｎ 𝓔Ｘ𝔞Ⓜ𝐏ᒪ𝑒 𝔬Ｆ 𝔪ㄚ 𝓪ⓤ𝕥𝐨𝓽Ⓔ𝔰𝓽 ᗯØ𝓇𝓀ƒ𝕃𝕠ｗ 【｡_｡】     </a>    </div>
+# <div align="center">          <a href="https://github.com/andrejevdenis/demo_representation">        <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Example.png" width="1239" height="295"/>     </a>    </div>
 
 ## 🗨️ Contacts
 
