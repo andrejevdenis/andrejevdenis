@@ -39,7 +39,7 @@
 
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#div-a-hrefhttpsgithubcomandrejevdenisdemo_representation-img-srchttpsgithubcomandrejevdenisandrejevdenisblobmastericonsexamplepng-width1239-height215-a-div)
+- [Example of workflow](#-example-of-workflow)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
@@ -63,9 +63,9 @@ I'm **AQA Engineer**, born in 1986 Samara, Russia, here is some facts about me a
     Having gained a certain experience, have been able to get a position of MiddleQA in [AO-RR](https://ao-rr.ru/#main__slider), from 04.2024.
 - **My AQA experience**:   
 From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work  
-##
 
-# <div>          <a href="https://github.com/andrejevdenis/demo_representation">        <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Example.png" width="1239" height="215"/>     </a>    </div>
+## 💨 Example of workflow
+<div>          <a href="https://github.com/andrejevdenis/demo_representation">        <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Example.png" width="1239" height="210"/>     </a>    </div>
 
 ## 🗨️ Contacts
 
