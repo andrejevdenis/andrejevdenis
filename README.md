@@ -37,9 +37,27 @@
 ![Adobe Photoshop](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/adobe_photoshop.svg)
 ![Notepad++](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Notepad.svg)
 
+<h3 align="left">My certificates:</h3>
+<img id="popupImage" src="https://github.com/andrejevdenis/demo_representation/blob/master/Icons/Andreev%20Denis.png" width="200" height="100" onclick="showModal()"/>
+
+<div id="imageModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); text-align:center;">
+    <span onclick="hideModal()" style="position:absolute; top:10px; right:20px; font-size:30px; color:white; cursor:pointer;">&times;</span>
+    <img src="https://github.com/andrejevdenis/demo_representation/blob/master/Icons/Andreev%20Denis.png" style="max-width:90%; max-height:90%; margin-top:5%;">
+</div>
+
+<script>
+function showModal() {
+    document.getElementById("imageModal").style.display = "block";
+}
+
+function hideModal() {
+    document.getElementById("imageModal").style.display = "none";
+}
+</script>
+
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#point_right)
+- [Example of workflow](#point_right--ⲯ﹍﹍﹍-𝙷𝚎𝚛𝚎-𝚒𝚜-𝚊𝚗-𝚎𝚡𝚊𝚖𝚙𝚕𝚎-𝚘𝚏-𝚖𝚢-𝚊𝚞𝚝𝚘𝚝𝚎𝚜𝚝-𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠-﹍ⲯ﹍ⲯ﹍﹍)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
