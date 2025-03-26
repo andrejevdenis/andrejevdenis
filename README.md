@@ -39,7 +39,7 @@
 
 <h3 align="left">My certificates:</h3>
 
-<a href="https://raw.githubusercontent.com/andrejevdenis/andrejevdenis/refs/heads/master/Icons/Andreev_Denis.webp"> <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" width="200" height="100"/></a>
+<a href="https://raw.githubusercontent.com/andrejevdenis/andrejevdenis/refs/heads/master/Icons/Andreev_Denis.webp"> <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" width="200" height="110"/></a>
 
 
 ## Table of Contents
