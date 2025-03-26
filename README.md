@@ -39,7 +39,7 @@
 
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#dash)
+- [Example of workflow](#point_right)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
@@ -64,8 +64,8 @@ I'm **AQA Engineer**, born in 1986 Samara, Russia, here is some facts about me a
 - **My AQA experience**:   
 From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work  
 
-## :dash: 
-<div>          <a href="https://github.com/andrejevdenis/demo_representation">        <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Example.png" width="1239" height="210"/>     </a>    </div>
+## :point_right:  [ⲯ﹍︿﹍︿﹍ 𝙷𝚎𝚛𝚎 𝚒𝚜 𝚊𝚗 𝚎𝚡𝚊𝚖𝚙𝚕𝚎 𝚘𝚏 𝚖𝚢 𝚊𝚞𝚝𝚘𝚝𝚎𝚜𝚝 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠 ﹍ⲯ﹍ⲯ﹍︿﹍☼](https://github.com/andrejevdenis/demo_representation)
+
 
 ## 🗨️ Contacts
 
