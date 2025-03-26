@@ -38,12 +38,21 @@
 ![Notepad++](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Notepad.svg)
 
 <h3 align="left">My certificates:</h3>
-<a href="#" onclick="openPopup('https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp'); return false;">
-    <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" width="200" height="100"/> </a>
+
+<img id="popupImage" src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" width="200" height="100" onclick="showModal()"/>
+
+<div id="imageModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); text-align:center;">
+    <span onclick="hideModal()" style="position:absolute; top:10px; right:20px; font-size:30px; color:white; cursor:pointer;">&times;</span>
+    <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" style="max-width:90%; max-height:90%; margin-top:5%;">
+</div>
 
 <script>
-function openPopup(imageUrl) {
-    window.open(imageUrl, '_blank', 'width=600,height=400');
+function showModal() {
+    document.getElementById("imageModal").style.display = "block";
+}
+
+function hideModal() {
+    document.getElementById("imageModal").style.display = "none";
 }
 </script>
 
