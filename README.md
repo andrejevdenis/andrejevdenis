@@ -39,22 +39,7 @@
 
 <h3 align="left">My certificates:</h3>
 
-<img id="popupImage" src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" width="200" height="100" onclick="showModal()"/>
-
-<div id="imageModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); text-align:center;">
-    <span onclick="hideModal()" style="position:absolute; top:10px; right:20px; font-size:30px; color:white; cursor:pointer;">&times;</span>
-    <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" style="max-width:90%; max-height:90%; margin-top:5%;">
-</div>
-
-<script>
-function showModal() {
-    document.getElementById("imageModal").style.display = "block";
-}
-
-function hideModal() {
-    document.getElementById("imageModal").style.display = "none";
-}
-</script>
+<a href="https://raw.githubusercontent.com/andrejevdenis/andrejevdenis/refs/heads/master/Icons/Andreev_Denis.webp"> <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" width="200" height="100"/></a>
 
 
 ## Table of Contents
