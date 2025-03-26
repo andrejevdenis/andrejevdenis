@@ -38,8 +38,9 @@
 ![Notepad++](https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Notepad.svg)
 
 <h3 align="left">My certificates:</h3>
-<a href="#" onclick="openPopup('https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.png'); return false;">
-    <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.png" width="200" height="100"/> </a>
+<a href="#" onclick="openPopup('https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp'); return false;">
+    <img src="https://github.com/andrejevdenis/andrejevdenis/blob/master/Icons/Andreev_Denis.webp" width="200" height="100"/> </a>
+
 <script>
 function openPopup(imageUrl) {
     window.open(imageUrl, '_blank', 'width=600,height=400');
