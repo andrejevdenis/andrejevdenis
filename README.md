@@ -53,7 +53,7 @@
 
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#point_right--ⲯ﹍﹍﹍-𝙷𝚎𝚛𝚎-𝚒𝚜-𝚊𝚗-𝚎𝚡𝚊𝚖𝚙𝚕𝚎-𝚘𝚏-𝚖𝚢-𝚊𝚞𝚝𝚘𝚝𝚎𝚜𝚝-𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠-﹍ⲯ﹍ⲯ﹍﹍)
+- [Example of workflow](#point_right--examples-of-workflow)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
@@ -78,8 +78,9 @@ I'm **AQA Engineer**, born in 1986 Samara, Russia, here is some facts about me a
 - **My AQA experience**:   
 From 2024, when i stared my studies in [QA-Guru](https://qa.guru/), i started apply automation at work  
 
-## :point_right:  [ⲯ﹍︿﹍︿﹍ 𝙷𝚎𝚛𝚎 𝚒𝚜 𝚊𝚗 𝚎𝚡𝚊𝚖𝚙𝚕𝚎 𝚘𝚏 𝚖𝚢 𝚊𝚞𝚝𝚘𝚝𝚎𝚜𝚝 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠 ﹍ⲯ﹍ⲯ﹍︿﹍☼](https://github.com/andrejevdenis/demo_representation)
-
+## :point_right: Examples of workflow
+- [Python mobile, web, API](https://github.com/andrejevdenis/demo_representation)  
+- [C++ gRPC practice. Mocking, memory leaks, CPU RPS tests.](https://github.com/andrejevdenis/gRPC_C_practice)
 
 ## 🗨️ Contacts
 
