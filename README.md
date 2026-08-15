@@ -53,7 +53,7 @@
 
 ## Table of Contents
 - [About](#-about)
-- [Example of workflow](#point_right--examples-of-workflow)
+- [Example of workflow](#point_right-examples-of-workflow)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## 🚀 About 
